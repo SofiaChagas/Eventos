@@ -1,0 +1,19 @@
+.login-content{
+    width: 100%;
+    padding: 15px;
+    margin: auto;
+    background-color: hsl(209, 84%, 26%);
+    height: 100vh;
+    color:rgb(0, 0, 0);
+}
+
+.btn-login{
+    background-color: rgb(148, 170, 230);
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.btn-login:hover{
+    background-color: rgb(24, 43, 88);
+    color:rgb(255, 255, 255)
+}
